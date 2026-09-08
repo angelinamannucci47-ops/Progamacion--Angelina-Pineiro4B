@@ -1,0 +1,28 @@
+body{
+    background-color: bisque;
+}
+
+#caja1 {
+    background-color: rgb(146, 98, 59);
+    width: 300px;
+    height: auto;
+}
+
+#caja2 {
+    background-color: rgb(192, 132, 83);
+    width: 300px;
+    height: auto;
+}
+
+#caja3 {
+    background-color: rgb(228, 164, 111);
+    width: 300px;
+    height: auto;
+}
+
+
+#caja4 {
+    background-color: rgb(146, 98, 59);
+    width: 300px;
+    height: auto;
+}
