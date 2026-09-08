@@ -1,3 +1,5 @@
+
+enunciados de los ej extras
 Ejercicio 1-IF/ELSE/ENDIF
 
 Crear un programa en PHP que permita determinar si una cadena de texto es larga o corta, utilizando la cantidad de caracteres que tiene. Si tiene más de 5 caracteres, mostrar que es una cadena larga;
